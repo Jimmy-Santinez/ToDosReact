@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jimmy-Santinez/ToDosReact.git/static/css/main.84ffd33a.css",
+    "main.js": "/Jimmy-Santinez/ToDosReact.git/static/js/main.e0dc240c.js",
+    "index.html": "/Jimmy-Santinez/ToDosReact.git/index.html",
+    "main.84ffd33a.css.map": "/Jimmy-Santinez/ToDosReact.git/static/css/main.84ffd33a.css.map",
+    "main.e0dc240c.js.map": "/Jimmy-Santinez/ToDosReact.git/static/js/main.e0dc240c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ffd33a.css",
+    "static/js/main.e0dc240c.js"
+  ]
+}

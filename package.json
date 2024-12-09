@@ -28,5 +28,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  },
+  "homepage": "C:/Users/jaime/Documentos/Proyectos_de_Programacion/curso-react-intro/build"
 }
